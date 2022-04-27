@@ -16,5 +16,5 @@ Ces déploiements automatisés peuvent aller de scripts de déploiement dans les
 
 L’intégration de Kubernetes, au sein de cette usine de développement, permettra ainsi d’automatiser et de simplifier plusieurs tâches et permettra de composer l’application à partir d’un ensemble de containers. Ainsi cette plateforme, prendra en charge le déploiement et assurera la synchronisation des composants entre eux.
 
-Le schéma suivant illustre l’architecture à mettre en place : [lien]TP-Projet-ArchitectureCI-CD.pdf
+Le schéma suivant illustre l’architecture à mettre en place : [lien](TP-Projet-ArchitectureCI-CD.pdf)
 
